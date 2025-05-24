@@ -1,0 +1,13 @@
+{
+    "customizations": {
+        "codespaces": {
+            "repositories": {
+                "dbavisi/*": {
+                    "permissions": {
+                        "contents": "write"
+                    }
+                }
+            }
+        }
+    }
+}
